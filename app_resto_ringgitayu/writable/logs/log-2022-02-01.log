@@ -1,0 +1,313 @@
+CRITICAL - 2022-02-01 00:18:18 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 00:18:29 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:20:43 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:22:07 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:23:17 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:23:45 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:24:03 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:24:24 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:25:11 --> Class 'App\Models\User' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:25:25 --> Class 'App\Controllers\Model' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:25:44 --> Class 'App\Controllers\Model' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:28:10 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:28:46 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:29:09 --> Class 'App\Controllers\UserModel' not found
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(802): App\Controllers\UserController->__construct()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 02:30:33 --> Undefined variable: users
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-01 02:31:31 --> Undefined variable: duser
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\user.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(25): view('user', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 03:15:13 --> Undefined variable: dmenu
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\menu.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 27, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(26): view('menu', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 03:54:43 --> Call to undefined function App\Controllers\redirct()
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->create()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-01 08:29:53 --> Undefined property: App\Controllers\PesanController::$Pesan
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\PesanController.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-01 12:12:50 --> Undefined index: id
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\user.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(25): view('user', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 12:13:15 --> Undefined index: id
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\menu.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(26): view('menu', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 12:17:00 --> Undefined index: id
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\user.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(25): view('user', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 12:41:21 --> View themes, no current section.
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\user.php(145): CodeIgniter\View\View->endSection()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(25): view('user', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 13:41:44 --> Undefined property: App\Controllers\MenuController::$users
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('1')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-01 13:42:09 --> Undefined property: App\Controllers\MenuController::$menuss
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(54): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('1')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-01 13:42:23 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(55): redirect('menus')
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('1')
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-01 13:45:50 -->  route cannot be found while reverse-routing.
+#0 C:\xampp\htdocs\app_resto_ringgitayu\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(55): redirect('menus')
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->delete('2')
+#4 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-01 13:56:05 --> View themes, no current section.
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\user.php(145): CodeIgniter\View\View->endSection()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(25): view('user', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 14:47:24 --> View themes, no current section.
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\user.php(192): CodeIgniter\View\View->endSection()
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('user', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\UserController.php(25): view('user', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 16:18:21 --> Undefined index: jenis_menu
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\menu.php(72): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 72, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\MenuController.php(26): view('menu', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 20:32:25 --> Undefined index: id
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\pesan.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\PesanController.php(26): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 20:33:10 --> Undefined index: id
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\pesan.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\PesanController.php(26): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 22:31:44 --> Undefined index: id_user
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\pesan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\PesanController.php(38): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\PesanController->index()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-01 22:35:58 --> Undefined index: id_user
+#0 C:\xampp\htdocs\app_resto_ringgitayu\app\Views\pesan.php(33): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 33, Array)
+#1 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_ringgitayu\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_ringgitayu\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_ringgitayu\app\Controllers\PesanController.php(38): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(825): App\Controllers\PesanController->index()
+#6 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_ringgitayu\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_ringgitayu\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_ringgitayu\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

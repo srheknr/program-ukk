@@ -1,0 +1,51 @@
+CRITICAL - 2022-02-06 06:22:55 --> Invalid file: id.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('id.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('id', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\app\Controllers\UserController.php(26): view('id', Array)
+#3 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\UserController->tampil()
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-06 06:26:25 --> Undefined property: App\Controllers\PesanController::$users
+#0 C:\xampp\htdocs\app_resto_refina\app\Controllers\PesanController.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 53)
+#1 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->delete('3')
+#2 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#3 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-06 06:27:19 --> Undefined property: App\Controllers\PesanController::$users
+#0 C:\xampp\htdocs\app_resto_refina\app\Controllers\PesanController.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 39)
+#1 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->create()
+#2 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#3 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-02-06 18:25:08 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-02-06 18:25:08 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\app_resto_refina\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\app_resto_refina\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\app_resto_refina\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\app_resto_refina\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(25): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-06 20:46:26 --> There is no data to update.
+#0 C:\xampp\htdocs\app_resto_refina\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\app_resto_refina\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\app_resto_refina\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(51): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->edit('9')
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}

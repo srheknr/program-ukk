@@ -1,0 +1,273 @@
+CRITICAL - 2022-01-29 03:44:06 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 03:44:12 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 03:57:14 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 03:57:20 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('public')
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:06:03 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('public')
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:16:53 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard('public')
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:28:24 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:36:58 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:36:59 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:37:00 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:37:01 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:37:07 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:39:08 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:43:20 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:57:20 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 04:57:29 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 05:02:03 --> Invalid file: layouts/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/admin.p...')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\Home.php(13): view('dashboard')
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 21:33:34 --> Invalid file: menu/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu/admin.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('menu/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(12): view('menu', Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 21:47:56 --> Invalid file: menu/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu/admin.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('menu/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(12): view('menu', Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 22:07:46 --> Invalid file: menu/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu/admin.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('menu/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(12): view('menu', Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 22:30:43 --> Invalid file: menu/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu/admin.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('menu/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(12): view('menu', Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+ERROR - 2022-01-29 22:48:30 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-01-29 22:48:30 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\app_resto_refina\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\app_resto_refina\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\app_resto_refina\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\app_resto_refina\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(11): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-29 22:51:58 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-29 22:54:02 --> Maximum execution time of 60 seconds exceeded
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-29 22:55:55 --> Invalid file: menu/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu/admin.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('menu/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(12): view('menu', Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-01-29 22:58:46 --> Invalid file: menu/admin.php
+#0 C:\xampp\htdocs\app_resto_refina\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu/admin.php')
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(226): CodeIgniter\View\View->render('menu/admin', Array, true)
+#2 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#3 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(12): view('menu', Array)
+#4 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}

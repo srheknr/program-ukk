@@ -1,0 +1,69 @@
+CRITICAL - 2022-01-30 00:00:31 --> Class "App\Controllers\UserModel" not found
+#0 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#1 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#2 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-30 00:02:11 --> Undefined variable $duser
+#0 C:\xampp\htdocs\app_resto_refina\app\Views\pesan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_refina\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\PesanController.php(12): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 00:02:49 --> Undefined variable $duser
+#0 C:\xampp\htdocs\app_resto_refina\app\Views\pesan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_refina\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\PesanController.php(12): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 00:02:59 --> Undefined variable $duser
+#0 C:\xampp\htdocs\app_resto_refina\app\Views\pesan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_refina\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\PesanController.php(12): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-01-30 00:03:03 --> Undefined variable $duser
+#0 C:\xampp\htdocs\app_resto_refina\app\Views\pesan.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\app_resto_refina\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_resto_refina\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_resto_refina\system\Common.php(1089): CodeIgniter\View\View->render('pesan', Array, true)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\PesanController.php(12): view('pesan', Array)
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\PesanController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PesanController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-01-30 18:40:01 --> Error connecting to the database: No connection could be made because the target machine actively refused it
+CRITICAL - 2022-01-30 18:40:01 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+#0 C:\xampp\htdocs\app_resto_refina\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\app_resto_refina\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\app_resto_refina\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\app_resto_refina\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\app_resto_refina\app\Controllers\MenuController.php(11): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(825): App\Controllers\MenuController->tampil()
+#6 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MenuController))
+#7 C:\xampp\htdocs\app_resto_refina\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_resto_refina\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_resto_refina\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
